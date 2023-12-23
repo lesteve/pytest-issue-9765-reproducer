@@ -1,0 +1,3 @@
+[tool.pytest.ini_options]
+addopts = "-p project.plugin.random_seed"
+testpaths = "project"
